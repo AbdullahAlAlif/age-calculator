@@ -4,9 +4,9 @@
 This is an age calculator app built using PyQt6 in Python. It allows users to select their date of birth and input their time of birth. The app calculates the user's age and displays it. If today is the user's birthday, the app wishes them a happy birthday.
 
 ## Images
-![Capture1](Capture1.png)
-![Capture2](Capture2.png)
-![Capture3](Capture3.png)
+![Capture1](Capture1.PNG)
+![Capture2](Capture2.PNG)
+![Capture3](Capture3.PNG)
 
 ## How to Use
 1. Open the app.
