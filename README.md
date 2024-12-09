@@ -5,7 +5,7 @@ This is an age calculator app built using PyQt6 in Python. It allows users to se
 
 ## Images
 ![Capture1](Capture1.PNG)
-![Capture2](Capture2.PNG)
+![Capture2](Capture2.png)
 ![Capture3](Capture3.PNG)
 
 ## How to Use
